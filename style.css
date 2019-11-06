@@ -1,0 +1,43 @@
+
+body{
+background-color: beige;
+
+}
+h1{
+    color: brown;
+    font-size: 40px;
+    font-family: Arial;
+   
+}
+
+input{
+    color: maroon;
+    font-size: 10px;
+    font-family: Arial;
+}
+select{
+    color: maroon;
+    font-size: 15px;
+    font-family: Arial;
+}
+button{
+    color: brown;
+    font-size: 15px;
+    font-family: Arial;
+}
+
+p{
+    color: maroon;
+    font-size: 20px;
+    font-family: Arial;
+}
+p2{
+    color: maroon;
+    font-size: 10px;
+    font-family: Arial;
+}
+output{
+    color: maroon;
+    font-size: 15px;
+    font-family: Arial;
+}
